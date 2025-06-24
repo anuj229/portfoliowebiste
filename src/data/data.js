@@ -6,7 +6,7 @@ export const data=[
         id:1,
         name:"React JS Application",
         image:WorkIm,
-        github:"",
+        github:"https://github.com/anuj229/portfoliowebiste",
         live:"https://glittery-lollipop-0dae8e.netlify.app",
     },
     {
