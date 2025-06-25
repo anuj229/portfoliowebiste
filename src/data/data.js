@@ -25,10 +25,10 @@ export const data=[
     },
     {
         id:4,
-        name:"React JS Application",
+        name:"Vintage Car website",
         image:RealEst,
-        github:"",
-        live:"",
+        github:"https://github.com/anuj229/vintageCar?tab=readme-ov-file",
+        live:"https://anuj229.github.io/vintageCar/index.html",
     },
 
 
