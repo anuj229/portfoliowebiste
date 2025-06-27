@@ -13,8 +13,8 @@ export const data=[
         id:2,
         name:"React JS Application",
         image:RealEst,
-        github:"",
-        live:"",
+        github:"https://github.com/anuj229/hotel-booking",
+        live:"https://legendary-dango-64cbd4.netlify.app",
     },
     {
         id:3,
